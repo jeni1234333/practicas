@@ -1,0 +1,13 @@
+.contenedor-form{
+    position: relative;
+    background: rgba(217, 229, 250, 0.87);
+    width: 100%;
+    max-width: 500px;
+    margin: 48px auto;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+
+    padding: 40px; 
+}
+
+
